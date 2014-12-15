@@ -63,5 +63,5 @@ that are registered and available:
 For normal usage, you simply need to run `gulp` which compiles all of your
 assets via the `gulp build`, then starts a flask server.
 
-[1]: http://continuum.io
+[cio]: http://continuum.io
 [gulp.js]: http://gulpjs.com
