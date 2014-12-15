@@ -11,4 +11,4 @@ module.exports = (options={}) ->
     browserify options
       .bundle()
       .pipe source options.filename
-      .pipe gulp.dest options.filename
+      .pipe gulp.dest options.destination

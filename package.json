@@ -1,6 +1,6 @@
 {
   "name": "continuum-gulp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Continuum's Gulp.js utilities",
   "repository": "git://github.com/ContinuumIO/continuum-gulp.git",
   "main": "index.js",
