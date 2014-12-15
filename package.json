@@ -1,0 +1,31 @@
+{
+  "name": "continuum-gulp",
+  "version": "1.0.0",
+  "description": "Continuum's Gulp.js utilities",
+  "repository": "git://github.com/ContinuumIO/continuum-gulp.git",
+  "main": "index.js",
+  "author": "Travis Swicegood <tswicegood@continuum.io>",
+  "license": "BSD",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "browserify": "^7.0.0",
+    "coffee-script": "^1.8.0",
+    "del": "^1.1.0",
+    "gulp-concat": "^2.4.2",
+    "gulp-livereload": "^2.1.1",
+    "gulp-notify": "^2.1.0",
+    "gulp-sass": "^1.2.4",
+    "gulp-util": "^3.0.1",
+    "nunjucks": "^1.1.0",
+    "ps-tree": "0.0.3",
+    "underscore": "^1.7.0",
+    "vinyl-map": "^1.0.1",
+    "vinyl-paths": "^1.0.0",
+    "vinyl-source-stream": "^1.0.0"
+  },
+  "peerDependencies": {
+    "gulp": "^3.8.10"
+  }
+}
