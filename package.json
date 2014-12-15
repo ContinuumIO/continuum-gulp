@@ -7,7 +7,7 @@
   "author": "Travis Swicegood <tswicegood@continuum.io>",
   "license": "BSD",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "init": "./init.sh"
   },
   "dependencies": {
     "browserify": "^7.0.0",
